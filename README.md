@@ -8,9 +8,15 @@ This iOS application allows users to view and explore different colors.
 - Color Selection: Users can select colors from a predefined palette.
 - RGB Values: Each color is displayed with its corresponding RGB values.
 
-## Screenshots
+## Screenshots!
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-31 at 02 25 24](https://github.com/scgursel/Swift-Random-Colors/assets/95382610/81d5d810-8816-4c06-8e44-f6b3dd031af3)
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-31 at 02 24 37](https://github.com/scgursel/Swift-Random-Colors/assets/95382610/29275393-5ee8-45a2-8481-9f5ba4f04b73)
+[Simulator Screenshot - iPhone 14 Pro - 2023-05-31 at 02 25 16](https://github.com/scgursel/Swift-Random-Colors/assets/95382610/3f87553f-cf11-43bf-a4db-e3db2149e432)
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-31 at 02 24 50](https://github.com/scgursel/Swift-Random-Colors/assets/95382610/363cc3ae-2ef5-46f9-a5ee-c0e696c374af)
 
-![App Screenshots](screenshots/screenshot1.png)
+
+
+
 
 ## Requirements
 
