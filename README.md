@@ -46,8 +46,6 @@ If you'd like to contribute to this project, follow these steps:
    ```bash
    git checkout -b my-new-feature
 
-
-
 2. Create a new branch:
    ```bash
    git checkout -b my-new-feature
@@ -56,13 +54,9 @@ If you'd like to contribute to this project, follow these steps:
    ```bash
    git commit -am 'Add new feature'
 
-
-
 4. Push your branch:
    ```bash
    git push origin my-new-feature
-
-
  
 5. Open a Pull Request on GitHub.
 
