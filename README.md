@@ -11,19 +11,16 @@ This iOS application allows users to view and explore different colors.
 ## Screenshots!
 <img src="https://github.com/scgursel/Swift-Random-Colors/assets/95382610/29275393-5ee8-45a2-8481-9f5ba4f04b73" alt="Simulator Screenshot - iPhone 14 Pro" width="400">
 
-<img src="https://github.com/scgursel/Swift-Random-Colors/assets/95382610/2abf4498-c618-40d3-8da3-e4092e74d3cd" alt="Simulator Screenshot - iPhone 14 Pro" width="400">
-
 <img src="https://github.com/scgursel/Swift-Random-Colors/assets/95382610/3f87553f-cf11-43bf-a4db-e3db2149e432" alt="Simulator Screenshot - iPhone 14 Pro" width="400">
+
+<img src="https://github.com/scgursel/Swift-Random-Colors/assets/95382610/2abf4498-c618-40d3-8da3-e4092e74d3cd" alt="Simulator Screenshot - iPhone 14 Pro" width="400">
 
 <img src="https://github.com/scgursel/Swift-Random-Colors/assets/95382610/363cc3ae-2ef5-46f9-a5ee-c0e696c374af" alt="Simulator Screenshot - iPhone 14 Pro" width="400">
 
 
 
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-31 at 02 25 24](https://github.com/scgursel/Swift-Random-Colors/assets/95382610/cdbf1424-8345-43f3-b685-82bfbf7118e4)
 
-
-![Simulator Screenshot - iPhone 14 Pro - 2023-05-31 at 02 24 37]()
-[Simulator Screenshot - iPhone 14 Pro - 2023-05-31 at 02 25 16](https://github.com/scgursel/Swift-Random-Colors/assets/95382610/3f87553f-cf11-43bf-a4db-e3db2149e432)
-![Simulator Screenshot - iPhone 14 Pro - 2023-05-31 at 02 24 50](https://github.com/scgursel/Swift-Random-Colors/assets/95382610/363cc3ae-2ef5-46f9-a5ee-c0e696c374af)
 
 
 
