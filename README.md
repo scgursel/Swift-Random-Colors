@@ -48,7 +48,7 @@ This iOS application allows users to view and explore different colors.
 
 3. Tap on a color to select it. The RGB values for the selected color will be displayed.
 
-4. Swipe left or right to explore more colors in the palette.
+4. Swipe down to explore more colors in the palette.
 
 ## Contributing
 
