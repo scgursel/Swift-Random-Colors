@@ -34,7 +34,7 @@ This iOS application allows users to view and explore different colors.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Username/color-viewer-app.git
+   git clone https://github.com/scgursel/Swift-Random-Colors.git
    
 2. Open the project in Xcode.
 
